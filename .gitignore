@@ -1,3 +1,6 @@
-/.tmp
-/cert
-/node_modules
+.tmp
+cert
+node_modules
+*.pem
+cert/cert.pem
+cert/key.pem
